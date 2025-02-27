@@ -12,7 +12,7 @@ class StudentController
      */
     public function index()
     {
-        //
+        return response("SUCCESS!!", 200);
     }
 
     /**

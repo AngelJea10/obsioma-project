@@ -12,7 +12,7 @@ class ParentsController
      */
     public function index()
     {
-        //
+        return response("SUCCESS!!", 200);
     }
 
     /**

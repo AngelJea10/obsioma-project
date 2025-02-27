@@ -12,7 +12,7 @@ class AttendanceController
      */
     public function index()
     {
-        //
+        return response("SUCCESS!!", 200);
     }
 
     /**

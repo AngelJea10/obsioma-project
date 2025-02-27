@@ -12,7 +12,7 @@ class ExamTypeController
      */
     public function index()
     {
-        //
+        return response("SUCCESS!!", 200);
     }
 
     /**
